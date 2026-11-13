@@ -1,0 +1,8 @@
+{
+    "owner": {
+        "username": "your-github-username"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=guitarlab.is-a.dev,5f1b83aa10a03c52ee5c"
+    }
+}
